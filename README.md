@@ -51,7 +51,7 @@ docksh <id>
 
 ## Learn More
 
-For detailed steps, refer to the word document.  
+A detailed blog post explaining the project is currently in edit and hasn't been published yet. It's a work in progress and will be shared soon.
 
 ---
 
