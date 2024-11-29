@@ -47,5 +47,6 @@ while True:
 				
 				print("Hello World")
 				os.write(tun, bytes("Hello World", encoding="ascii"))
+				print("Arbitrary data written to the interface")
 
 		
