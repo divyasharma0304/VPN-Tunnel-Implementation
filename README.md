@@ -36,8 +36,7 @@ The project uses three machines in a simulated Docker environment:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/divyasharma0304/vpn-tunneling-python.git
-cd vpn-tunneling-python
+gh repo clone divyasharma0304/VPN-Tunnel-Implementation
 ```
 
 ### 3. Set Up the Docker Environment
@@ -45,21 +44,17 @@ cd vpn-tunneling-python
 ```bash
 docker-compose build
 docker-compose up
+dockps
+docksh <id>
 ```
 
 
 ## Learn More
 
-For detailed steps, refer to the [blog post](https://hashnode.com/@yourhashnode).  
+For detailed steps, refer to the word document.  
 
 ---
 
 ## References
 
 - **SEED Labs**: VPN Lab Documentation by Wenliang Du ([link](https://seedsecuritylabs.org)).
-
----
-
-## License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
