@@ -51,7 +51,7 @@ docksh <id>
 
 ## Learn More
 
-A detailed blog post explaining the project step-by-step is ([here]([https://seedsecuritylabs.org](https://vpntunnel.hashnode.dev/building-a-vpn-tunnel))).
+A detailed blog post explaining the project step-by-step is ([here](https://vpntunnel.hashnode.dev/building-a-vpn-tunnel)).
 
 ---
 
