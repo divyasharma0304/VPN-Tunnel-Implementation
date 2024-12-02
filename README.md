@@ -1,4 +1,4 @@
-# VPN Tunneling with Python
+# VPN Tunnel Implementation 
 
 This project demonstrates how to implement a VPN tunnel using Python and Linux's TUN/TAP interfaces. It showcases the setup of a secure tunnel for routing IP packets between a client, server, and a private network.
 
@@ -51,7 +51,7 @@ docksh <id>
 
 ## Learn More
 
-A detailed blog post explaining the project is currently in edit and hasn't been published yet. It's a work in progress and will be shared soon.
+A detailed blog post explaining the project step-by-step is ([here]([https://seedsecuritylabs.org](https://vpntunnel.hashnode.dev/building-a-vpn-tunnel))).
 
 ---
 
